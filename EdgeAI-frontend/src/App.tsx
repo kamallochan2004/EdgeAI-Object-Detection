@@ -75,7 +75,7 @@ const Stat = ({ value, label }: { value: string; label: string }) => {
 function App() {
   const [isDark, setIsDark] = useState(false);
   // Add GitHub repo URL
-  const githubRepoUrl = 'https://github.com/username/esp32-cam-object-detection';
+  const githubRepoUrl = 'https://github.com/kamallochan2004/EdgeAI-Object-Detection';
   
   useEffect(() => {
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -254,14 +254,14 @@ function App() {
               <TeamMember
                 name="Ayush Kachhap"
                 role="Researcher"
-                image="https://media.licdn.com/dms/image/v2/D4D03AQHpNy0Fvq5amQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1683010849275?e=1747267200&v=beta&t=gdHZUAqr7uSiQAq6iONwjo8-SXow5a1EAxl--ggyjnI"
+                image="https://i.imghippo.com/files/alls1924YmU.png"
                 linkedin="https://www.linkedin.com/in/ayush-kachhap-6a682a238/"
                 github="https://github.com/Insane30"
               />
               <TeamMember
                 name="Madhav Bhardwaj"
                 role="Logistics"
-                image="https://media.licdn.com/dms/image/v2/D5603AQETPydbt5qV9A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1731422170394?e=1747267200&v=beta&t=h7jEfq9U6LtQ-263eQDuPgAqbND7yNqU_9iVII09lqM"
+                image="https://i.imghippo.com/files/BVX6140nS.png"
                 linkedin="https://www.linkedin.com/in/madhav-bhardwaj-b27976266/"
                 github="https://github.com/madhavwaj"
               />
