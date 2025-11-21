@@ -260,8 +260,8 @@ function App() {
               />
               <TeamMember
                 name="Madhav Bhardwaj"
-                role="Logistics"
-                image="https://i.imghippo.com/files/BVX6140nS.png"
+                role="ML Engineer"
+                image="https://drive.google.com/file/d/1fHzjlsnOe4byK0AYs6pjbfXorVY1Jw_g/view?usp=drive_link"
                 linkedin="https://www.linkedin.com/in/madhav-bhardwaj-b27976266/"
                 github="https://github.com/madhavwaj"
               />
