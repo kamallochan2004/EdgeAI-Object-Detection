@@ -261,7 +261,7 @@ function App() {
               <TeamMember
                 name="Madhav Bhardwaj"
                 role="ML Engineer"
-                image="https://drive.google.com/file/d/1fHzjlsnOe4byK0AYs6pjbfXorVY1Jw_g/view?usp=drive_link"
+                image="https://www.imghippo.com/i/PclC3572YhU.png"
                 linkedin="https://www.linkedin.com/in/madhav-bhardwaj-b27976266/"
                 github="https://github.com/madhavwaj"
               />
